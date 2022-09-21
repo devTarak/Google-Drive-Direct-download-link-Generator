@@ -26,6 +26,15 @@ body{
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(216,217,219,.5);
     }
+    .copyright{
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .copyright a{
+        color: #343a40;
+    }
 @media screen and (max-width: 480px){
     .card{
         margin: 60% 0px 0px 0% !important;
