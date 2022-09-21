@@ -26,3 +26,11 @@ body{
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(216,217,219,.5);
     }
+@media screen and (max-width: 480px){
+    .card{
+        margin: 60% 0px 0px 0% !important;
+    }
+    .card-title{
+        font-size: 1.7rem;
+    }
+}
